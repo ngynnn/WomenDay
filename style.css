@@ -39,6 +39,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+Background-image: url(img12.jpg);
 
 .demo-2 {
 	--color-text: #000000;
